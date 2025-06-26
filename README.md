@@ -21,5 +21,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" height="40" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="40" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="40" width="40" />
+
+  ###  Статистика профиля
   
   
