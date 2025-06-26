@@ -1,8 +1,7 @@
 <h1 align="center">Всем привет, я Мария</h1>
-## Hi there 👋
+<h3 align="center">Python-разработчик</h3>
 
-<!--
-**MaryKarpacheva/MaryKarpacheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
